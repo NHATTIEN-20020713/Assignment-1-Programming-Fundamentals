@@ -25,7 +25,7 @@ bool readFile( const string & filename, int & HP1, int & HP2, int & EXP1, int & 
 int firstMeet(int & exp1, int & exp2, int e1);
 
 // Task 2
-int traceLuggage(int & HP1, int & EXP1, int & M1, int E3);
+int traceLuggage(int & HP1, int & EXP1, int & M1, int E2);
 
 // Task 3
 int chaseTaxi(int & HP1, int & EXP1, int & HP2, int & EXP2, int E3);
